@@ -2,11 +2,11 @@
 
 ### Aspiring Software Engineer | ML & Web Dev Enthusiast | Skilled in Python, Flask, SQL & Data Visualization | GLA Univ 2024 | IBM Hackathon Participant
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/manvigarg11&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/manvigarg11" /> </p>
+<p align="left"> <img src="https://github.com/manvigarg11" alt="https://github.com/manvigarg11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/manvigarg11" alt="https://github.com/manvigarg11" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/manvi-garg11/" alt="https://github.com/manvigarg11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/manvig1128" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/manvig1128?logo=twitter&style=for-the-badge" alt="https://x.com/manvig1128" /></a> </p>
+<p align="left"> <a href="https://x.com/manvig1128" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/manvig1128?logo=twitter&style=for-the-badge" alt="https://x.com/manvig1128" /></a> </p>
 
 - 🔭 I'm currently working on **an AIML project.**
 
