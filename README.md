@@ -1,2 +1,2 @@
 # Githubprofile
-Github profile PEADME
+Github profile README
